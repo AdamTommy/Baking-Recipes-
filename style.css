@@ -12,17 +12,24 @@ h3 {
   text-align:center
 }
 
+h2 {
+  letter-spacing: ;
+  font: 15px "Lato", sans-serif;
+  color: White;
+  text-align: left;
+}
+
 .textSection {
-  background-color:#642580;
+  background-color:#00E5EE;
   padding:50px 80px;
 }
 
-.cd-logo, .simple-cake, .kitchen-equipment, .cake-ingredients, .preparation, .cooking-instuctions, .decorations {
+.cookies, .simple-cake, .kitchen-equipment, .cake-ingredients, .preparation, .cooking-instuctions, .decorations {
   position: relative;
   background-position: center;
   background-attachment: fixed;
   background-repeat: no-repeat;
-  background-color: #642580;
+  background-color: #00F5FF;
   background-size: cover;
   min-height: 50%;
   opacity: 0.8;
