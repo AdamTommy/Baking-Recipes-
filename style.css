@@ -2,26 +2,27 @@ body, html {
   height: 100%;
   margin: 0;
   font: 400 15px/1.8 "Lato", sans-serif;
-  color: White;
+  color: black;
 }
 h3 {
   letter-spacing: 5px;
   text-transform: uppercase;
   font: 20px "Lato", sans-serif;
-  color: white;
+  color: black;
   text-align:center
 }
 
 h2 {
   letter-spacing: ;
   font: 15px "Lato", sans-serif;
-  color: White;
+  color: black;
   text-align: left;
 }
 
 .textSection {
   background-color:#00E5EE;
   padding:50px 80px;
+  color: black;
 }
 
 .cookies, .simple-cake, .kitchen-equipment, .cake-ingredients, .preparation, .cooking-instuctions, .decorations {
