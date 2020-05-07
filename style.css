@@ -25,7 +25,7 @@ h2 {
   color: black;
 }
 
-.cookies, .simple-cake, .kitchen-equipment, .cake-ingredients, .preparation, .cooking-instuctions, .decorations {
+.front-page, ., .kitchen-equipment, .cake-ingredients, .preparation, .cooking-instuctions, .decorations {
   position: relative;
   background-position: center;
   background-attachment: fixed;
