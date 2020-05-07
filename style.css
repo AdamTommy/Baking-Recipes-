@@ -39,55 +39,55 @@ h2 {
 .front-page {
   background-image: url("Front Page.jpeg");
   min-height: 100%;
-  background-size: auto;
+  background-size: 50;
 }
 .chocolatechip {
   background-image: url("1200px-2ChocolateChipCookies.jpg");
   min-height: 100%;
-  background-size: auto;
+  background-size: 50;
 }
 .orange-snowballs {
-  background-image: url("orangesnowballs.jpg");
-  min-height: 200%;
-  background-size: auto;
+  background-image: url("orangesnowballs - Copy.jpg");
+  min-height: 100%;
+  background-size: 80;
 }
 .orange-cranberry {
   background-image: url("Orange Cranberry Snowballs.jpg");
-  background-size: auto;
+  background-size: 10;
 }
 .thumb-print {
   background-image: url("thumbprints.jpg");
   min-height: 100%;
-  background-size: auto;
+  background-size: 30;
 }
 .snickerdoodle {
   background-image: url("Snickerdoodles.jpg");
   min-height: 100%;
-  background-size: auto;
+  background-size: 50;
 }
 .peanut-butter {
   background-image: url("peanut-butter-cookies-5.jpg");
   min-height: 100%;
-  background-size: auto;
+  background-size: 50;
 }
 .frosted-butterscotch {
   background-image: url("Frosted Butterscotch Cookies - Copy.JPG");
   min-height: 100%;
-  background-size: auto;
+  background-size: 50;
 }
 .sugar-cookie {
   background-image: url("Sugar Cookies.jpg");
   min-height: 100%;
-  background-size: auto;
+  background-size: 50;
 }
 .sugar-cookie-2 {
   background-image: url("Sugar Cookies 2.jpeg");
-  background-size: auto;
+  background-size: 50;
 }
 .ender {
   background-image: url("Ender.jpg");
   min-height: 100%;
-  background-size: auto;
+  background-size: 50;
 }
 .caption {
   position: absolute;
