@@ -25,7 +25,7 @@ h2 {
   color: black;
 }
 
-.front-page, .chocolatechip, .orange-snowballs, .orange-cranberry, .Thumb-prints, .snickerdoodle, .peanut-butter, .frosted-butterscotch, .sugar-cookie, .sugar-cookie-2, .ender{
+.front-page, .chocolatechip, .orange-snowballs, .orange-cranberry, .thumb-print, .snickerdoodle, .peanut-butter, .frosted-butterscotch, .sugar-cookie, .sugar-cookie-2, .ender{
   position: relative;
   background-position: center;
   background-attachment: fixed;
@@ -47,17 +47,16 @@ h2 {
   background-size: auto;
 }
 .orange-snowballs {
-  background-image: url("20200428_211604.jpg");
-  min-height: 100%;
+  background-image: url("orangesnowballs.jpg");
+  min-height: 200%;
   background-size: auto;
 }
 .orange-cranberry {
   background-image: url("Orange Cranberry Snowballs.jpg");
-  min-height: 100%;
   background-size: auto;
 }
-.thumb-prints {
-  background-image: url("Thimb Prints.jpg");
+.thumb-print {
+  background-image: url("thumbprints.jpg");
   min-height: 100%;
   background-size: auto;
 }
@@ -72,7 +71,7 @@ h2 {
   background-size: auto;
 }
 .frosted-butterscotch {
-  background-image: url("20200428_211641.jpg");
+  background-image: url("Frosted Butterscotch Cookies - Copy.JPG");
   min-height: 100%;
   background-size: auto;
 }
@@ -83,7 +82,6 @@ h2 {
 }
 .sugar-cookie-2 {
   background-image: url("Sugar Cookies 2.jpeg");
-  min-height: 100%;
   background-size: auto;
 }
 .ender {
@@ -91,3 +89,22 @@ h2 {
   min-height: 100%;
   background-size: auto;
 }
+.caption {
+  position: absolute;
+  top: 40%;
+  width: 100%;
+  text-align: center;
+}
+.border {
+  background-color: #41BAC1;
+  color: White;
+  padding: 18px;
+  font-size: 25px;
+  letter-spacing: 10px;
+}
+/* Trun off parallax scrolling for tablets and phones as it is not supported */
+/* @media only screen and (max-device-width: 1024px) {
+  .cd-logo,.simple-cake,.kitchen-equipment,.cake-ingredients,.preparation,.cooking-instuctions, .decorations {
+    background-attachment: scroll;
+  }
+} */
